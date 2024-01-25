@@ -1,5 +1,5 @@
 ### Hi there 👋
-work on progress
+work in progress
 <!--
 **TrickSoLogic/tricksologic** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
